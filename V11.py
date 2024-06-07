@@ -194,7 +194,7 @@ class scaled_out_simulator:
                         filter_backing_buf_bw=filter_backing_bw,
                         ofmap_backing_buf_bw=ofmap_backing_bw,
                         verbose=True,
-                        estimate_bandwidth_mode=False
+                        estimate_bandwidth_mode=True
                     )
 
                     memory_system.service_memory_requests(ifmap_demand_mat, filter_demand_mat, ofmap_demand_mat)
