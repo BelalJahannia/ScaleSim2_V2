@@ -1,0 +1,6 @@
+Layer ID: 36
+Compute Cycles: 1343.0
+Overall Utilization (%): 58.37676842889054
+Total Ifmap DRAM Reads: 93569.0
+Total Filter DRAM Reads: 230369.0
+Total Ofmap DRAM Writes: 748769.0

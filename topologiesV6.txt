@@ -1,11 +1,4 @@
-test   .csv, ./topologies/conv_nets/test.csv
-alexnet.csv, ./topologies/conv_nets/alexnet.csv
 Googlenet.csv, ./topologies/conv_nets/Googlenet.csv
 Resnet18.csv, ./topologies/conv_nets/Resnet18.csv
-Resnet50.csv, ./topologies/conv_nets/Resnet50.csv
 mobilenet.csv, ./topologies/conv_nets/mobilenet.csv
-FasterRCNN.csv, ./topologies/mlperf/FasterRCNN.csv
 AlphaGoZero.csv, ./topologies/mlperf/AlphaGoZero.csv
-gpt2.csv, ./topologies/translation/gpt2.csv
-DeepBench_GEMM_github.csv, ./topologies/deepbench/DeepBench_Dense/DeepBench_GEMM_github.csv
-handwriting_rec.csv, ./topologies/rnn_eval/handwriting_rec.csv

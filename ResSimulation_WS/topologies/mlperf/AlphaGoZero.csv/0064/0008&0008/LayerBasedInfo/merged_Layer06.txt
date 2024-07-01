@@ -1,0 +1,359 @@
+===== PE_0000_0000 =====
+Layer ID: 6
+Grid Row ID: 0
+Grid Col ID: 0
+Compute Cycles: 2967.0
+IFMAP DRAM Reads: 11552.0
+Filter DRAM Reads: 32.0
+OFMAP DRAM Writes: 2888.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 2967.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3688.0
+Total Compute Cycles: 2967
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (5.0, 2965.0)
+Filter SRAM Access Range: (1.0, 2601.0)
+OFMAP SRAM Access Range: (7.0, 2964.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (2967.0, 3688.0)
+IFMAP SRAM Access Count: 11552
+Filter SRAM Access Count: 32
+OFMAP SRAM Access Count: 2888
+IFMAP DRAM Access Count: 11552
+Filter DRAM Access Count: 32
+OFMAP DRAM Access Count: 2888
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.18361409505208331
+Filter Buffer Utilization (%): 0.0005086263020833333
+OFMAP Buffer Utilization (%): 0.1377105712890625
+
+===== PE_0_1 =====
+An error occurred for PE_0_1
+===== PE_0_2 =====
+An error occurred for PE_0_2
+===== PE_0_3 =====
+An error occurred for PE_0_3
+===== PE_0_4 =====
+An error occurred for PE_0_4
+===== PE_0_5 =====
+An error occurred for PE_0_5
+===== PE_0_6 =====
+An error occurred for PE_0_6
+===== PE_0_7 =====
+An error occurred for PE_0_7
+===== PE_0001_0000 =====
+Layer ID: 6
+Grid Row ID: 1
+Grid Col ID: 0
+Compute Cycles: 2967.0
+IFMAP DRAM Reads: 11552.0
+Filter DRAM Reads: 32.0
+OFMAP DRAM Writes: 2888.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 2967.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3688.0
+Total Compute Cycles: 2967
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (5.0, 2965.0)
+Filter SRAM Access Range: (1.0, 2601.0)
+OFMAP SRAM Access Range: (7.0, 2964.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (2967.0, 3688.0)
+IFMAP SRAM Access Count: 11552
+Filter SRAM Access Count: 32
+OFMAP SRAM Access Count: 2888
+IFMAP DRAM Access Count: 11552
+Filter DRAM Access Count: 32
+OFMAP DRAM Access Count: 2888
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.18361409505208331
+Filter Buffer Utilization (%): 0.0005086263020833333
+OFMAP Buffer Utilization (%): 0.1377105712890625
+
+===== PE_1_1 =====
+An error occurred for PE_1_1
+===== PE_1_2 =====
+An error occurred for PE_1_2
+===== PE_1_3 =====
+An error occurred for PE_1_3
+===== PE_1_4 =====
+An error occurred for PE_1_4
+===== PE_1_5 =====
+An error occurred for PE_1_5
+===== PE_1_6 =====
+An error occurred for PE_1_6
+===== PE_1_7 =====
+An error occurred for PE_1_7
+===== PE_0002_0000 =====
+Layer ID: 6
+Grid Row ID: 2
+Grid Col ID: 0
+Compute Cycles: 2967.0
+IFMAP DRAM Reads: 11552.0
+Filter DRAM Reads: 32.0
+OFMAP DRAM Writes: 2888.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 2967.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3688.0
+Total Compute Cycles: 2967
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (5.0, 2965.0)
+Filter SRAM Access Range: (1.0, 2601.0)
+OFMAP SRAM Access Range: (7.0, 2964.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (2967.0, 3688.0)
+IFMAP SRAM Access Count: 11552
+Filter SRAM Access Count: 32
+OFMAP SRAM Access Count: 2888
+IFMAP DRAM Access Count: 11552
+Filter DRAM Access Count: 32
+OFMAP DRAM Access Count: 2888
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.18361409505208331
+Filter Buffer Utilization (%): 0.0005086263020833333
+OFMAP Buffer Utilization (%): 0.1377105712890625
+
+===== PE_2_1 =====
+An error occurred for PE_2_1
+===== PE_2_2 =====
+An error occurred for PE_2_2
+===== PE_2_3 =====
+An error occurred for PE_2_3
+===== PE_2_4 =====
+An error occurred for PE_2_4
+===== PE_2_5 =====
+An error occurred for PE_2_5
+===== PE_2_6 =====
+An error occurred for PE_2_6
+===== PE_2_7 =====
+An error occurred for PE_2_7
+===== PE_0003_0000 =====
+Layer ID: 6
+Grid Row ID: 3
+Grid Col ID: 0
+Compute Cycles: 2967.0
+IFMAP DRAM Reads: 11552.0
+Filter DRAM Reads: 32.0
+OFMAP DRAM Writes: 2888.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 2967.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3688.0
+Total Compute Cycles: 2967
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (5.0, 2965.0)
+Filter SRAM Access Range: (1.0, 2601.0)
+OFMAP SRAM Access Range: (7.0, 2964.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (2967.0, 3688.0)
+IFMAP SRAM Access Count: 11552
+Filter SRAM Access Count: 32
+OFMAP SRAM Access Count: 2888
+IFMAP DRAM Access Count: 11552
+Filter DRAM Access Count: 32
+OFMAP DRAM Access Count: 2888
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.18361409505208331
+Filter Buffer Utilization (%): 0.0005086263020833333
+OFMAP Buffer Utilization (%): 0.1377105712890625
+
+===== PE_3_1 =====
+An error occurred for PE_3_1
+===== PE_3_2 =====
+An error occurred for PE_3_2
+===== PE_3_3 =====
+An error occurred for PE_3_3
+===== PE_3_4 =====
+An error occurred for PE_3_4
+===== PE_3_5 =====
+An error occurred for PE_3_5
+===== PE_3_6 =====
+An error occurred for PE_3_6
+===== PE_3_7 =====
+An error occurred for PE_3_7
+===== PE_0004_0000 =====
+Layer ID: 6
+Grid Row ID: 4
+Grid Col ID: 0
+Compute Cycles: 2967.0
+IFMAP DRAM Reads: 11552.0
+Filter DRAM Reads: 32.0
+OFMAP DRAM Writes: 2888.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 2967.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3688.0
+Total Compute Cycles: 2967
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (5.0, 2965.0)
+Filter SRAM Access Range: (1.0, 2601.0)
+OFMAP SRAM Access Range: (7.0, 2964.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (2967.0, 3688.0)
+IFMAP SRAM Access Count: 11552
+Filter SRAM Access Count: 32
+OFMAP SRAM Access Count: 2888
+IFMAP DRAM Access Count: 11552
+Filter DRAM Access Count: 32
+OFMAP DRAM Access Count: 2888
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.18361409505208331
+Filter Buffer Utilization (%): 0.0005086263020833333
+OFMAP Buffer Utilization (%): 0.1377105712890625
+
+===== PE_4_1 =====
+An error occurred for PE_4_1
+===== PE_4_2 =====
+An error occurred for PE_4_2
+===== PE_4_3 =====
+An error occurred for PE_4_3
+===== PE_4_4 =====
+An error occurred for PE_4_4
+===== PE_4_5 =====
+An error occurred for PE_4_5
+===== PE_4_6 =====
+An error occurred for PE_4_6
+===== PE_4_7 =====
+An error occurred for PE_4_7
+===== PE_0005_0000 =====
+Layer ID: 6
+Grid Row ID: 5
+Grid Col ID: 0
+Compute Cycles: 2967.0
+IFMAP DRAM Reads: 11552.0
+Filter DRAM Reads: 32.0
+OFMAP DRAM Writes: 2888.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 2967.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3688.0
+Total Compute Cycles: 2967
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (5.0, 2965.0)
+Filter SRAM Access Range: (1.0, 2601.0)
+OFMAP SRAM Access Range: (7.0, 2964.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (2967.0, 3688.0)
+IFMAP SRAM Access Count: 11552
+Filter SRAM Access Count: 32
+OFMAP SRAM Access Count: 2888
+IFMAP DRAM Access Count: 11552
+Filter DRAM Access Count: 32
+OFMAP DRAM Access Count: 2888
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.18361409505208331
+Filter Buffer Utilization (%): 0.0005086263020833333
+OFMAP Buffer Utilization (%): 0.1377105712890625
+
+===== PE_5_1 =====
+An error occurred for PE_5_1
+===== PE_5_2 =====
+An error occurred for PE_5_2
+===== PE_5_3 =====
+An error occurred for PE_5_3
+===== PE_5_4 =====
+An error occurred for PE_5_4
+===== PE_5_5 =====
+An error occurred for PE_5_5
+===== PE_5_6 =====
+An error occurred for PE_5_6
+===== PE_5_7 =====
+An error occurred for PE_5_7
+===== PE_0006_0000 =====
+Layer ID: 6
+Grid Row ID: 6
+Grid Col ID: 0
+Compute Cycles: 2967.0
+IFMAP DRAM Reads: 11552.0
+Filter DRAM Reads: 32.0
+OFMAP DRAM Writes: 2888.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 2967.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3688.0
+Total Compute Cycles: 2967
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (5.0, 2965.0)
+Filter SRAM Access Range: (1.0, 2601.0)
+OFMAP SRAM Access Range: (7.0, 2964.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (2967.0, 3688.0)
+IFMAP SRAM Access Count: 11552
+Filter SRAM Access Count: 32
+OFMAP SRAM Access Count: 2888
+IFMAP DRAM Access Count: 11552
+Filter DRAM Access Count: 32
+OFMAP DRAM Access Count: 2888
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.18361409505208331
+Filter Buffer Utilization (%): 0.0005086263020833333
+OFMAP Buffer Utilization (%): 0.1377105712890625
+
+===== PE_6_1 =====
+An error occurred for PE_6_1
+===== PE_6_2 =====
+An error occurred for PE_6_2
+===== PE_6_3 =====
+An error occurred for PE_6_3
+===== PE_6_4 =====
+An error occurred for PE_6_4
+===== PE_6_5 =====
+An error occurred for PE_6_5
+===== PE_6_6 =====
+An error occurred for PE_6_6
+===== PE_6_7 =====
+An error occurred for PE_6_7
+===== PE_7_0 =====
+An error occurred for PE_7_0
+===== PE_7_1 =====
+An error occurred for PE_7_1
+===== PE_7_2 =====
+An error occurred for PE_7_2
+===== PE_7_3 =====
+An error occurred for PE_7_3
+===== PE_7_4 =====
+An error occurred for PE_7_4
+===== PE_7_5 =====
+An error occurred for PE_7_5
+===== PE_7_6 =====
+An error occurred for PE_7_6
+===== PE_7_7 =====
+An error occurred for PE_7_7
