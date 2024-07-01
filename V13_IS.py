@@ -274,7 +274,7 @@ class scaled_out_simulator:
                     merged_content.append("\n")
 
         # Create the directory structure
-        output_dir = './ResSimulation_IS'
+        output_dir = './ResSimulation_Is_V02'
         topology_name = self.topology_filename
         grid_size_dir = f"{self.grid_rows*self.grid_cols:04d}"
         grid_config_dir = f"{self.grid_rows:04d}&{self.grid_cols:04d}"
@@ -461,9 +461,9 @@ class scaled_out_simulator:
             os.chdir(current_file_dir)
 
 
-            output_file_path_ALL_Layers_layerinfo = f'./ResSimulation_IS/{topology_name}/{gridName1*gridName2:04d}/{gridName1:04d}&{gridName2:04d}/LayerBasedInfo'
-            output_file_path_ALL_Layers = f'./ResSimulation_IS/{topology_name}/{gridName1*gridName2:04d}/{gridName1:04d}&{gridName2:04d}/LayerBasedInfo/Layer{layer_id:02d}.txt'
-            output_file_path_ALL_Layers2 = f'./ResSimulation_IS/{topology_name}/{gridName1*gridName2:04d}/{gridName1:04d}&{gridName2:04d}'
+            output_file_path_ALL_Layers_layerinfo = f'./ResSimulation_Is_V02/{topology_name}/{gridName1*gridName2:04d}/{gridName1:04d}&{gridName2:04d}/LayerBasedInfo'
+            output_file_path_ALL_Layers = f'./ResSimulation_Is_V02/{topology_name}/{gridName1*gridName2:04d}/{gridName1:04d}&{gridName2:04d}/LayerBasedInfo/Layer{layer_id:02d}.txt'
+            output_file_path_ALL_Layers2 = f'./ResSimulation_Is_V02/{topology_name}/{gridName1*gridName2:04d}/{gridName1:04d}&{gridName2:04d}'
             #print("testttttttt\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_")
             #print(self.topology\_filename)
             if not os.path.exists(output_file_path_ALL_Layers2):
@@ -477,7 +477,7 @@ class scaled_out_simulator:
                 output_file.write('Total Ifmap DRAM Reads: ' + str(sum(self.stats_ifmap_dram_reads[layer_id])) + '\n')
                 output_file.write('Total Filter DRAM Reads: ' + str(sum(self.stats_filter_dram_reads[layer_id])) + '\n')
                 output_file.write('Total Ofmap DRAM Writes: ' + str(sum(self.stats_ofmap_dram_writes[layer_id])) + '\n')
-            output_file_path_One = f'./ResSimulation_IS/{topology_name}/{gridName1*gridName2:04d}/{gridName1:04d}&{gridName2:04d}/All.txt'
+            output_file_path_One = f'./ResSimulation_Is_V02/{topology_name}/{gridName1*gridName2:04d}/{gridName1:04d}&{gridName2:04d}/All.txt'
             with open(output_file_path_One, 'a') as output_file2:
                 output_file2.write('Layer ID: ' + str(layer_id) + '\n')
                 output_file2.write('Compute Cycles: ' + str(this_layer_compute_cycles) + '\n')
@@ -560,7 +560,7 @@ if __name__ == '__main__':
     grid_sizes_list = ['Grids64', 'Grids128', 'Grids256', 'Grids512', 'Grids1024']
 
     # Configure logging
-    logging.basicConfig(filename='simulationIS.log', level=logging.INFO,
+    logging.basicConfig(filename='simulation_IS_V02.log', level=logging.INFO,
                         format='%(asctime)s - %(levelname)s - %(message)s')
 
     # Create a multiprocessing pool

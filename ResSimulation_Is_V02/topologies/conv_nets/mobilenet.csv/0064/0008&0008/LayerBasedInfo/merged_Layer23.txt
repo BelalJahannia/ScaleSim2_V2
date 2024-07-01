@@ -1,0 +1,1712 @@
+===== PE_0000_0000 =====
+Layer ID: 23
+Grid Row ID: 0
+Grid Col ID: 0
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0000_0001 =====
+Layer ID: 23
+Grid Row ID: 0
+Grid Col ID: 1
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3904.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3904
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3904
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.062052408854166664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0000_0002 =====
+Layer ID: 23
+Grid Row ID: 0
+Grid Col ID: 2
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3648.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3648
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3648
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0579833984375
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0000_0003 =====
+Layer ID: 23
+Grid Row ID: 0
+Grid Col ID: 3
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0000_0004 =====
+Layer ID: 23
+Grid Row ID: 0
+Grid Col ID: 4
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3712.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3712
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3712
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.059000651041666664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0000_0005 =====
+Layer ID: 23
+Grid Row ID: 0
+Grid Col ID: 5
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3840.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3840
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3840
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.06103515625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0000_0006 =====
+Layer ID: 23
+Grid Row ID: 0
+Grid Col ID: 6
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0_7 =====
+An error occurred for PE_0_7
+===== PE_0001_0000 =====
+Layer ID: 23
+Grid Row ID: 1
+Grid Col ID: 0
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0001_0001 =====
+Layer ID: 23
+Grid Row ID: 1
+Grid Col ID: 1
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3904.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3904
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3904
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.062052408854166664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0001_0002 =====
+Layer ID: 23
+Grid Row ID: 1
+Grid Col ID: 2
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3648.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3648
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3648
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0579833984375
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0001_0003 =====
+Layer ID: 23
+Grid Row ID: 1
+Grid Col ID: 3
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0001_0004 =====
+Layer ID: 23
+Grid Row ID: 1
+Grid Col ID: 4
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3712.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3712
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3712
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.059000651041666664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0001_0005 =====
+Layer ID: 23
+Grid Row ID: 1
+Grid Col ID: 5
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3840.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3840
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3840
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.06103515625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0001_0006 =====
+Layer ID: 23
+Grid Row ID: 1
+Grid Col ID: 6
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_1_7 =====
+An error occurred for PE_1_7
+===== PE_0002_0000 =====
+Layer ID: 23
+Grid Row ID: 2
+Grid Col ID: 0
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0002_0001 =====
+Layer ID: 23
+Grid Row ID: 2
+Grid Col ID: 1
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3904.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3904
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3904
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.062052408854166664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0002_0002 =====
+Layer ID: 23
+Grid Row ID: 2
+Grid Col ID: 2
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3648.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3648
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3648
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0579833984375
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0002_0003 =====
+Layer ID: 23
+Grid Row ID: 2
+Grid Col ID: 3
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0002_0004 =====
+Layer ID: 23
+Grid Row ID: 2
+Grid Col ID: 4
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3712.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3712
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3712
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.059000651041666664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0002_0005 =====
+Layer ID: 23
+Grid Row ID: 2
+Grid Col ID: 5
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3840.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3840
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3840
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.06103515625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0002_0006 =====
+Layer ID: 23
+Grid Row ID: 2
+Grid Col ID: 6
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_2_7 =====
+An error occurred for PE_2_7
+===== PE_0003_0000 =====
+Layer ID: 23
+Grid Row ID: 3
+Grid Col ID: 0
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0003_0001 =====
+Layer ID: 23
+Grid Row ID: 3
+Grid Col ID: 1
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3904.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3904
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3904
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.062052408854166664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0003_0002 =====
+Layer ID: 23
+Grid Row ID: 3
+Grid Col ID: 2
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3648.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3648
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3648
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0579833984375
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0003_0003 =====
+Layer ID: 23
+Grid Row ID: 3
+Grid Col ID: 3
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0003_0004 =====
+Layer ID: 23
+Grid Row ID: 3
+Grid Col ID: 4
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3712.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3712
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3712
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.059000651041666664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0003_0005 =====
+Layer ID: 23
+Grid Row ID: 3
+Grid Col ID: 5
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3840.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3840
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3840
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.06103515625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0003_0006 =====
+Layer ID: 23
+Grid Row ID: 3
+Grid Col ID: 6
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_3_7 =====
+An error occurred for PE_3_7
+===== PE_0004_0000 =====
+Layer ID: 23
+Grid Row ID: 4
+Grid Col ID: 0
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0004_0001 =====
+Layer ID: 23
+Grid Row ID: 4
+Grid Col ID: 1
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3904.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3904
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3904
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.062052408854166664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0004_0002 =====
+Layer ID: 23
+Grid Row ID: 4
+Grid Col ID: 2
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3648.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3648
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3648
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0579833984375
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0004_0003 =====
+Layer ID: 23
+Grid Row ID: 4
+Grid Col ID: 3
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0004_0004 =====
+Layer ID: 23
+Grid Row ID: 4
+Grid Col ID: 4
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3712.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3712
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3712
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.059000651041666664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0004_0005 =====
+Layer ID: 23
+Grid Row ID: 4
+Grid Col ID: 5
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3840.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3840
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3840
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.06103515625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0004_0006 =====
+Layer ID: 23
+Grid Row ID: 4
+Grid Col ID: 6
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_4_7 =====
+An error occurred for PE_4_7
+===== PE_0005_0000 =====
+Layer ID: 23
+Grid Row ID: 5
+Grid Col ID: 0
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0005_0001 =====
+Layer ID: 23
+Grid Row ID: 5
+Grid Col ID: 1
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3904.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3904
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3904
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.062052408854166664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0005_0002 =====
+Layer ID: 23
+Grid Row ID: 5
+Grid Col ID: 2
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3648.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3648
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3648
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0579833984375
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0005_0003 =====
+Layer ID: 23
+Grid Row ID: 5
+Grid Col ID: 3
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0005_0004 =====
+Layer ID: 23
+Grid Row ID: 5
+Grid Col ID: 4
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3712.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3712
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3712
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.059000651041666664
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0005_0005 =====
+Layer ID: 23
+Grid Row ID: 5
+Grid Col ID: 5
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3840.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 3840
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 3840
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.06103515625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_0005_0006 =====
+Layer ID: 23
+Grid Row ID: 5
+Grid Col ID: 6
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 4032.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 1008.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3418.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3166.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3418.0)
+IFMAP SRAM Access Count: 4032
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 1008
+IFMAP DRAM Access Count: 4032
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 1008
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.0640869140625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.048065185546875
+
+===== PE_5_7 =====
+An error occurred for PE_5_7
+===== PE_0006_0000 =====
+Layer ID: 23
+Grid Row ID: 6
+Grid Col ID: 0
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3456.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 864.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3382.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3165.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3382.0)
+IFMAP SRAM Access Count: 3456
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 864
+IFMAP DRAM Access Count: 3456
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 864
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.054931640625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.04119873046875
+
+===== PE_0006_0001 =====
+Layer ID: 23
+Grid Row ID: 6
+Grid Col ID: 1
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3456.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 864.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3382.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3165.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3382.0)
+IFMAP SRAM Access Count: 3456
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 864
+IFMAP DRAM Access Count: 3456
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 864
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.054931640625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.04119873046875
+
+===== PE_0006_0002 =====
+Layer ID: 23
+Grid Row ID: 6
+Grid Col ID: 2
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3456.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 864.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3382.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3165.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3382.0)
+IFMAP SRAM Access Count: 3456
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 864
+IFMAP DRAM Access Count: 3456
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 864
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.054931640625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.04119873046875
+
+===== PE_0006_0003 =====
+Layer ID: 23
+Grid Row ID: 6
+Grid Col ID: 3
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3456.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 864.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3382.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3165.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3382.0)
+IFMAP SRAM Access Count: 3456
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 864
+IFMAP DRAM Access Count: 3456
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 864
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.054931640625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.04119873046875
+
+===== PE_0006_0004 =====
+Layer ID: 23
+Grid Row ID: 6
+Grid Col ID: 4
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 3456.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 864.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3382.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 3161.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3165.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3382.0)
+IFMAP SRAM Access Count: 3456
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 864
+IFMAP DRAM Access Count: 3456
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 864
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.054931640625
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.04119873046875
+
+===== PE_0006_0005 =====
+Layer ID: 23
+Grid Row ID: 6
+Grid Col ID: 5
+Compute Cycles: 3167.0
+IFMAP DRAM Reads: 1152.0
+Filter DRAM Reads: 576.0
+OFMAP DRAM Writes: 864.0
+IFMAP DRAM Start Cycle: -15729.0
+Filter DRAM Start Cycle: -15729.0
+OFMAP DRAM Start Cycle: 3167.0
+IFMAP DRAM End Cycle: -1.0
+Filter DRAM End Cycle: -1.0
+OFMAP DRAM End Cycle: 3382.0
+Total Compute Cycles: 3167
+Total Stall Cycles: 0
+IFMAP SRAM Access Range: (1.0, 2105.0)
+Filter SRAM Access Range: (5.0, 3165.0)
+OFMAP SRAM Access Range: (7.0, 3165.0)
+IFMAP DRAM Access Range: (-15729.0, -1.0)
+Filter DRAM Access Range: (-15729.0, -1.0)
+OFMAP DRAM Access Range: (3167.0, 3382.0)
+IFMAP SRAM Access Count: 1152
+Filter SRAM Access Count: 576
+OFMAP SRAM Access Count: 864
+IFMAP DRAM Access Count: 1152
+Filter DRAM Access Count: 576
+OFMAP DRAM Access Count: 864
+IFMAP Buffer Size (bytes): 6291456
+Filter Buffer Size (bytes): 6291456
+OFMAP Buffer Size (bytes): 2097152
+IFMAP Buffer Utilization (%): 0.018310546875
+Filter Buffer Utilization (%): 0.0091552734375
+OFMAP Buffer Utilization (%): 0.04119873046875
+
+===== PE_6_6 =====
+An error occurred for PE_6_6
+===== PE_6_7 =====
+An error occurred for PE_6_7
+===== PE_7_0 =====
+An error occurred for PE_7_0
+===== PE_7_1 =====
+An error occurred for PE_7_1
+===== PE_7_2 =====
+An error occurred for PE_7_2
+===== PE_7_3 =====
+An error occurred for PE_7_3
+===== PE_7_4 =====
+An error occurred for PE_7_4
+===== PE_7_5 =====
+An error occurred for PE_7_5
+===== PE_7_6 =====
+An error occurred for PE_7_6
+===== PE_7_7 =====
+An error occurred for PE_7_7

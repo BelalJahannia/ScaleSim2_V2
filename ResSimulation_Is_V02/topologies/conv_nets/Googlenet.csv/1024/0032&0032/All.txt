@@ -1,0 +1,348 @@
+Layer ID: 0
+Compute Cycles: 14059.0
+Overall Utilization (%): 49.42063357991322
+Total Ifmap DRAM Reads: 1592007.0
+Total Filter DRAM Reads: 269002.0
+Total Ofmap DRAM Writes: 40822666.0
+Layer ID: 1
+Compute Cycles: 1849.0
+Overall Utilization (%): 42.40129799891834
+Total Ifmap DRAM Reads: 188391.0
+Total Filter DRAM Reads: 123010.0
+Total Ofmap DRAM Writes: 6033538.0
+Layer ID: 2
+Compute Cycles: 23229.0
+Overall Utilization (%): 84.73459899263851
+Total Ifmap DRAM Reads: 1592425.0
+Total Filter DRAM Reads: 3324418.0
+Total Ofmap DRAM Writes: 84935938.0
+Layer ID: 3
+Compute Cycles: 1035.0
+Overall Utilization (%): 56.811594202898554
+Total Ifmap DRAM Reads: 144128.0
+Total Filter DRAM Reads: 369282.0
+Total Ofmap DRAM Writes: 3076162.0
+Layer ID: 4
+Compute Cycles: 1483.0
+Overall Utilization (%): 59.47403910991233
+Total Ifmap DRAM Reads: 144128.0
+Total Filter DRAM Reads: 553954.0
+Total Ofmap DRAM Writes: 4614274.0
+Layer ID: 5
+Compute Cycles: 5795.0
+Overall Utilization (%): 78.74029335634167
+Total Ifmap DRAM Reads: 564912.0
+Total Filter DRAM Reads: 3321153.0
+Total Ofmap DRAM Writes: 18748737.0
+Layer ID: 6
+Compute Cycles: 363.0
+Overall Utilization (%): 40.49586776859504
+Total Ifmap DRAM Reads: 144128.0
+Total Filter DRAM Reads: 92274.0
+Total Ofmap DRAM Writes: 768994.0
+Layer ID: 7
+Compute Cycles: 839.0
+Overall Utilization (%): 53.63528009535161
+Total Ifmap DRAM Reads: 210639.0
+Total Filter DRAM Reads: 374565.0
+Total Ofmap DRAM Writes: 2075205.0
+Layer ID: 8
+Compute Cycles: 587.0
+Overall Utilization (%): 50.08517887563884
+Total Ifmap DRAM Reads: 144128.0
+Total Filter DRAM Reads: 184610.0
+Total Ofmap DRAM Writes: 1538050.0
+Layer ID: 9
+Compute Cycles: 1931.0
+Overall Utilization (%): 81.20145002589332
+Total Ifmap DRAM Reads: 192194.0
+Total Filter DRAM Reads: 984898.0
+Total Ofmap DRAM Writes: 6152386.0
+Layer ID: 10
+Compute Cycles: 1931.0
+Overall Utilization (%): 81.20145002589332
+Total Ifmap DRAM Reads: 192194.0
+Total Filter DRAM Reads: 984898.0
+Total Ofmap DRAM Writes: 6152386.0
+Layer ID: 11
+Compute Cycles: 10907.0
+Overall Utilization (%): 83.67103694874851
+Total Ifmap DRAM Reads: 753237.0
+Total Filter DRAM Reads: 6642369.0
+Total Ofmap DRAM Writes: 36158337.0
+Layer ID: 12
+Compute Cycles: 587.0
+Overall Utilization (%): 66.78023850085178
+Total Ifmap DRAM Reads: 192194.0
+Total Filter DRAM Reads: 246178.0
+Total Ofmap DRAM Writes: 1538050.0
+Layer ID: 13
+Compute Cycles: 3709.0
+Overall Utilization (%): 72.79590186033971
+Total Ifmap DRAM Reads: 432796.0
+Total Filter DRAM Reads: 2308642.0
+Total Ofmap DRAM Writes: 11633986.0
+Layer ID: 14
+Compute Cycles: 1035.0
+Overall Utilization (%): 75.74879227053141
+Total Ifmap DRAM Reads: 192194.0
+Total Filter DRAM Reads: 492418.0
+Total Ofmap DRAM Writes: 3076162.0
+Layer ID: 15
+Compute Cycles: 1615.0
+Overall Utilization (%): 68.26625386996903
+Total Ifmap DRAM Reads: 90519.0
+Total Filter DRAM Reads: 2499684.0
+Total Ofmap DRAM Writes: 4642404.0
+Layer ID: 16
+Compute Cycles: 847.0
+Overall Utilization (%): 65.08264462809917
+Total Ifmap DRAM Reads: 90519.0
+Total Filter DRAM Reads: 1249764.0
+Total Ofmap DRAM Writes: 2321124.0
+Layer ID: 17
+Compute Cycles: 3051.0
+Overall Utilization (%): 51.76991150442478
+Total Ifmap DRAM Reads: 119566.0
+Total Filter DRAM Reads: 5048659.0
+Total Ofmap DRAM Writes: 6454323.0
+Layer ID: 18
+Compute Cycles: 207.0
+Overall Utilization (%): 44.38405797101449
+Total Ifmap DRAM Reads: 90519.0
+Total Filter DRAM Reads: 208164.0
+Total Ofmap DRAM Writes: 386724.0
+Layer ID: 19
+Compute Cycles: 231.0
+Overall Utilization (%): 50.730519480519476
+Total Ifmap DRAM Reads: 38336.0
+Total Filter DRAM Reads: 467726.0
+Total Ofmap DRAM Writes: 569966.0
+Layer ID: 20
+Compute Cycles: 591.0
+Overall Utilization (%): 62.182741116751274
+Total Ifmap DRAM Reads: 90519.0
+Total Filter DRAM Reads: 833124.0
+Total Ofmap DRAM Writes: 1547364.0
+Layer ID: 21
+Compute Cycles: 1359.0
+Overall Utilization (%): 72.11184694628403
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 2221924.0
+Total Ofmap DRAM Writes: 3868644.0
+Layer ID: 22
+Compute Cycles: 975.0
+Overall Utilization (%): 70.35897435897436
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 1555300.0
+Total Ofmap DRAM Writes: 2708004.0
+Layer ID: 23
+Compute Cycles: 3743.0
+Overall Utilization (%): 53.018968741651086
+Total Ifmap DRAM Reads: 141731.0
+Total Filter DRAM Reads: 6443907.0
+Total Ofmap DRAM Writes: 7943811.0
+Layer ID: 24
+Compute Cycles: 271.0
+Overall Utilization (%): 54.24354243542435
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 333156.0
+Total Ofmap DRAM Writes: 580164.0
+Layer ID: 25
+Compute Cycles: 369.0
+Overall Utilization (%): 63.516260162601625
+Total Ifmap DRAM Reads: 58062.0
+Total Filter DRAM Reads: 942151.0
+Total Ofmap DRAM Writes: 981831.0
+Layer ID: 26
+Compute Cycles: 591.0
+Overall Utilization (%): 66.32825719120136
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 888676.0
+Total Ofmap DRAM Writes: 1547364.0
+Layer ID: 27
+Compute Cycles: 1103.0
+Overall Utilization (%): 71.07887579329103
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 1777508.0
+Total Ofmap DRAM Writes: 3094884.0
+Layer ID: 28
+Compute Cycles: 1103.0
+Overall Utilization (%): 71.07887579329103
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 1777508.0
+Total Ofmap DRAM Writes: 3094884.0
+Layer ID: 29
+Compute Cycles: 4787.0
+Overall Utilization (%): 54.14664716941717
+Total Ifmap DRAM Reads: 159463.0
+Total Filter DRAM Reads: 8285059.0
+Total Ofmap DRAM Writes: 10213507.0
+Layer ID: 30
+Compute Cycles: 271.0
+Overall Utilization (%): 54.24354243542435
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 333156.0
+Total Ofmap DRAM Writes: 580164.0
+Layer ID: 31
+Compute Cycles: 147.0
+Overall Utilization (%): 12.5
+Total Ifmap DRAM Reads: 3208.0
+Total Filter DRAM Reads: 33361.0
+Total Ofmap DRAM Writes: 236497.0
+Layer ID: 32
+Compute Cycles: 591.0
+Overall Utilization (%): 66.32825719120136
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 888676.0
+Total Ofmap DRAM Writes: 1547364.0
+Layer ID: 33
+Compute Cycles: 975.0
+Overall Utilization (%): 70.35897435897436
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 1555300.0
+Total Ofmap DRAM Writes: 2708004.0
+Layer ID: 34
+Compute Cycles: 1231.0
+Overall Utilization (%): 71.64906580016248
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 1999716.0
+Total Ofmap DRAM Writes: 3481764.0
+Layer ID: 35
+Compute Cycles: 6555.0
+Overall Utilization (%): 50.04576659038902
+Total Ifmap DRAM Reads: 181628.0
+Total Filter DRAM Reads: 10615267.0
+Total Ofmap DRAM Writes: 14043619.0
+Layer ID: 36
+Compute Cycles: 335.0
+Overall Utilization (%): 58.507462686567166
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 444260.0
+Total Ofmap DRAM Writes: 773604.0
+Layer ID: 37
+Compute Cycles: 517.0
+Overall Utilization (%): 60.44487427466151
+Total Ifmap DRAM Reads: 76476.0
+Total Filter DRAM Reads: 1239751.0
+Total Ofmap DRAM Writes: 1374663.0
+Layer ID: 38
+Compute Cycles: 591.0
+Overall Utilization (%): 66.32825719120136
+Total Ifmap DRAM Reads: 96564.0
+Total Filter DRAM Reads: 888676.0
+Total Ofmap DRAM Writes: 1547364.0
+Layer ID: 39
+Compute Cycles: 2659.0
+Overall Utilization (%): 60.81233546446032
+Total Ifmap DRAM Reads: 102609.0
+Total Filter DRAM Reads: 3777380.0
+Total Ofmap DRAM Writes: 7737444.0
+Layer ID: 40
+Compute Cycles: 1699.0
+Overall Utilization (%): 59.483519717480874
+Total Ifmap DRAM Reads: 102609.0
+Total Filter DRAM Reads: 2360804.0
+Total Ofmap DRAM Writes: 4835844.0
+Layer ID: 41
+Compute Cycles: 7919.0
+Overall Utilization (%): 51.142821063265565
+Total Ifmap DRAM Reads: 199360.0
+Total Filter DRAM Reads: 12945475.0
+Total Ofmap DRAM Writes: 17022595.0
+Layer ID: 42
+Compute Cycles: 419.0
+Overall Utilization (%): 48.23985680190931
+Total Ifmap DRAM Reads: 102609.0
+Total Filter DRAM Reads: 472036.0
+Total Ofmap DRAM Writes: 967044.0
+Layer ID: 43
+Compute Cycles: 965.0
+Overall Utilization (%): 64.76683937823834
+Total Ifmap DRAM Reads: 76476.0
+Total Filter DRAM Reads: 2479751.0
+Total Ofmap DRAM Writes: 2749575.0
+Layer ID: 44
+Compute Cycles: 1379.0
+Overall Utilization (%): 58.629441624365484
+Total Ifmap DRAM Reads: 102609.0
+Total Filter DRAM Reads: 1888612.0
+Total Ofmap DRAM Writes: 3868644.0
+Layer ID: 45
+Compute Cycles: 1861.0
+Overall Utilization (%): 34.22890918860828
+Total Ifmap DRAM Reads: 38408.0
+Total Filter DRAM Reads: 4951784.0
+Total Ofmap DRAM Writes: 2666216.0
+Layer ID: 46
+Compute Cycles: 849.0
+Overall Utilization (%): 29.98472467608952
+Total Ifmap DRAM Reads: 25016.0
+Total Filter DRAM Reads: 2023400.0
+Total Ofmap DRAM Writes: 1190120.0
+Layer ID: 47
+Compute Cycles: 3959.0
+Overall Utilization (%): 17.760166708764842
+Total Ifmap DRAM Reads: 33200.0
+Total Filter DRAM Reads: 10713320.0
+Total Ofmap DRAM Writes: 2856680.0
+Layer ID: 48
+Compute Cycles: 293.0
+Overall Utilization (%): 27.175767918088738
+Total Ifmap DRAM Reads: 38408.0
+Total Filter DRAM Reads: 618728.0
+Total Ofmap DRAM Writes: 333032.0
+Layer ID: 49
+Compute Cycles: 965.0
+Overall Utilization (%): 5.829015544041451
+Total Ifmap DRAM Reads: 5424.0
+Total Filter DRAM Reads: 792824.0
+Total Ofmap DRAM Writes: 221432.0
+Layer ID: 50
+Compute Cycles: 965.0
+Overall Utilization (%): 33.005181347150256
+Total Ifmap DRAM Reads: 38408.0
+Total Filter DRAM Reads: 2475752.0
+Total Ofmap DRAM Writes: 1332968.0
+Layer ID: 51
+Compute Cycles: 2757.0
+Overall Utilization (%): 34.657236126224156
+Total Ifmap DRAM Reads: 38408.0
+Total Filter DRAM Reads: 7427816.0
+Total Ofmap DRAM Writes: 3999464.0
+Layer ID: 52
+Compute Cycles: 1413.0
+Overall Utilization (%): 33.81104033970276
+Total Ifmap DRAM Reads: 38408.0
+Total Filter DRAM Reads: 3713768.0
+Total Ofmap DRAM Writes: 1999592.0
+Layer ID: 53
+Compute Cycles: 5515.0
+Overall Utilization (%): 18.359020852221214
+Total Ifmap DRAM Reads: 39896.0
+Total Filter DRAM Reads: 15427304.0
+Total Ofmap DRAM Writes: 3999464.0
+Layer ID: 54
+Compute Cycles: 405.0
+Overall Utilization (%): 29.49074074074074
+Total Ifmap DRAM Reads: 38408.0
+Total Filter DRAM Reads: 928232.0
+Total Ofmap DRAM Writes: 499688.0
+Layer ID: 55
+Compute Cycles: 965.0
+Overall Utilization (%): 5.829015544041451
+Total Ifmap DRAM Reads: 5424.0
+Total Filter DRAM Reads: 792824.0
+Total Ofmap DRAM Writes: 221432.0
+Layer ID: 56
+Compute Cycles: 965.0
+Overall Utilization (%): 33.005181347150256
+Total Ifmap DRAM Reads: 38408.0
+Total Filter DRAM Reads: 2475752.0
+Total Ofmap DRAM Writes: 1332968.0
+Layer ID: 57
+Compute Cycles: -1.0
+Overall Utilization (%): -6250.0
+Total Ifmap DRAM Reads: -1024.0
+Total Filter DRAM Reads: -1024.0
+Total Ofmap DRAM Writes: -1024.0
